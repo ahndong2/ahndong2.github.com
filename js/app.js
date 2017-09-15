@@ -1,7 +1,7 @@
 'use strict';
 
 function initEvent() {
-	window.console.log('kikiki');
+	window.console.log('kikik22i');
 }
 
 exports.init = function() {
